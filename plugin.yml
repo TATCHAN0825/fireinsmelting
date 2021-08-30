@@ -1,0 +1,6 @@
+---
+name: fireinsmelting
+version: 1.0.0
+main: tatchan\fireinsmelting\Main
+api: 3.22.0
+...
